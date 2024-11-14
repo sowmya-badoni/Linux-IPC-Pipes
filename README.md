@@ -1,8 +1,8 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-#### NAME: ASHWINA K N
-#### REG NO: 212223230025
+#### NAME: sowmya badoni
+#### REG NO: 212223230211
 
 # Ex03-Linux IPC - Pipes
 
